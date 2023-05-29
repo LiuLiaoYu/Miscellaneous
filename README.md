@@ -4,10 +4,10 @@ What I think May be useful
 
 
 
-| folder        | describe                                  | created  | last edited |
-| ------------- | ----------------------------------------- | -------- | ----------- |
-| Formatter7714 | A Structured Formatter for GB/T 7714-2015 | 23-05-23 | 23-05-28    |
-|               |                                           |          |             |
+| folder        | describe                                  | created  |
+| ------------- | ----------------------------------------- | -------- |
+| Formatter7714 | A Structured Formatter for GB/T 7714-2015 | 23-05-23 |
+|               |                                           |          |
 
 
 
